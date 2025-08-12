@@ -1,7 +1,7 @@
 
 # 📚 Gurukul Library Management System
 
-A professional and intuitive web-based library management system built using **Python**, **Streamlit**, and **SQLite**. This app allows library admins to efficiently manage books, students, and book issuance—all in one place.
+A professional and intuitive web-based library management system built using **Python**, **Streamlit**, and **SQLite** This app allows library admins to efficiently manage books, students, and book issuance—all in one place.
 
 ## 🚀 Features
 
